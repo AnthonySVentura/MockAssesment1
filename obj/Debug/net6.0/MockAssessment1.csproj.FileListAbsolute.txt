@@ -1,0 +1,15 @@
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\bin\Debug\net6.0\MockAssessment1.exe
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\bin\Debug\net6.0\MockAssessment1.deps.json
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\bin\Debug\net6.0\MockAssessment1.runtimeconfig.json
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\bin\Debug\net6.0\MockAssessment1.dll
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\bin\Debug\net6.0\MockAssessment1.pdb
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.csproj.AssemblyReference.cache
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.AssemblyInfoInputs.cache
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.AssemblyInfo.cs
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.csproj.CoreCompileInputs.cache
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.dll
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\refint\MockAssessment1.dll
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.pdb
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\MockAssessment1.genruntimeconfig.cache
+C:\Users\Ace\Desktop\Assesments\practice-assessment-1-AnthonySVentura\MockAssessment1\MockAssessment1\obj\Debug\net6.0\ref\MockAssessment1.dll
